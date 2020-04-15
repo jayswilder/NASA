@@ -37,7 +37,7 @@ article {
 
 }
 
-button {
+input[type=submit] {
     width: 70px;
     height: 30px;
     background-color: #4d4d4d;
@@ -74,7 +74,7 @@ textarea {
     margin-left: 25px;
 }
 
-button {
+input[type=submit] {
     margin-left: 25px;
     margin-top: 5px;
     font-family: "Source Sans Pro", sans-serif; 
